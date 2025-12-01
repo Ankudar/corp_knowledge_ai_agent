@@ -6,7 +6,7 @@ AI-агент для корпоративных знаний через Telegram
 
 ### 0. Входные данные и стек
 - [ ] Входы:
-  - PDF, DOCX, PPTX, HTML
+  - PDF, DOCX, PPTX, HTML, XSLX
   - Excel: сотрудники
   - Excel: каталог заявок
   - Confluence / Notion / Git / Wiki
